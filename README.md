@@ -1,18 +1,18 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1400&color=22C55E&center=true&vCenter=true&width=520&lines=Cloud+%26+DevOps+Engineer;Building+Scalable+Systems;Linux+%7C+Automation+%7C+Startups" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1400&color=22C55E&center=true&vCenter=true&width=600&lines=Cloud+%26+Infrastructure+Engineer;Building+Scalable+Production+Systems;Automation+%7C+Linux+%7C+Kubernetes+%7C+Cloud"
   />
 </p>
+
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=34D399&center=true&vCenter=true&width=520&lines=Designing+reliable+cloud+infrastructure.;Focused+on+automation+and+operability.;Shipping+production+systems%2C+not+just+diagrams."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=34D399&center=true&vCenter=true&width=600&lines=Turning+ideas+into+reliable+infrastructure.;Automating+everything+that+shouldn't+be+manual.;Building+systems+that+scale+beyond+the+diagram."
   />
 </p>
 
----
 
-## 🌐 Find me
+---
 
 <p align="left">
   <a href="https://harish8.com" target="_blank">
