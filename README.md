@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://harish8.com">🌐</a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://git.harish8.com/harish">🦊</a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/harishsudalaimani/">in</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/harishsudalaimani/">🔗</a>
 </p>
