@@ -3,21 +3,9 @@
 </p>
 
 <p align="center">
-
-  <a href="https://harish8.com">
-    <font size="5">🌐</font>
-  </a>
-
-  &nbsp;&nbsp;
-
-  <a href="https://git.harish8.com/harish">
-    <font size="5">🦊</font>
-  </a>
-
-  &nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/harishsudalaimani/">
-    <font size="5">in</font>
-  </a>
-
+  <a href="https://harish8.com">🌐</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://git.harish8.com/harish">🦊</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/harishsudalaimani/">🔗</a>
 </p>
