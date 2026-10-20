@@ -3,9 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://kloudlab.in">
-    <img src="https://img.shields.io/badge/KloudLab-22C55E?style=flat-square&logo=googlechrome&logoColor=white" alt="KloudLab" />
-  </a>
   <a href="https://www.linkedin.com/in/harishsudalaimani/">
     <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
