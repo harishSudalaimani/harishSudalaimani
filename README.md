@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/harishsudalaimani/">
     <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/Harish_8_">
-    <img src="https://img.shields.io/badge/X-18181B?style=flat-square&logo=x&logoColor=white" alt="X" />
-  </a>
   <a href="https://discordapp.com/users/1341650829115002911">
     <img src="https://img.shields.io/badge/Discord-18181B?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
   </a>
